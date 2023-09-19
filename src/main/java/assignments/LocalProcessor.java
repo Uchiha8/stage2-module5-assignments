@@ -56,6 +56,9 @@ public class LocalProcessor {
             while (informationscanner.hasNext()) {
                 ProcessorVersion+= informationscanner.nextLine();
             }
+    }
+
+    public void getInformationScanner() {
 
     }
 }
